@@ -1,5 +1,10 @@
 # Генератор QR кодов с графическим интерфейсом пользователя
 
-Для использования:
-1. Установите Java Runtime Environment 8+ [СКАЧАТЬ](https://www.java.com/en/download/manual.jsp)
-2. Скачайте файл qrGenerator.jar и откройте его с помощью Java
+Существует несколько вариантов запуска приложения:
+1. Кроссплатформенный:
+   1.1 Установите Java Runtime Environment для вашей операционной системы [СКАЧАТЬ](https://www.java.com/en/download/manual.jsp)
+   1.2. Скачайте файл qrGenerator.jar и откройте его с помощью Java Runtime Environment
+2. Для операционной системы Windows:
+   2.1. Скачайте архив App.zip
+   2.2. Распакуйте архив в любое место
+   2.3. Запустите приложение QRGenerator.exe
