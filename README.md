@@ -5,12 +5,12 @@
    
    1.1 Установите Java Runtime Environment для вашей операционной системы [СКАЧАТЬ](https://www.java.com/en/download/manual.jsp)
    
-   1.2. Скачайте файл qrGenerator.jar и откройте его с помощью Java Runtime Environment
+   1.2. Скачайте файл QR Generator.jar и откройте его с помощью Java Runtime Environment
    
 3. Для операционной системы Windows:
    
-   2.1. Скачайте архив App.zip
+   2.1. Скачайте архив Windows App.zip
    
    2.2. Распакуйте архив в любое место
    
-   2.3. Запустите приложение QRGenerator.exe
+   2.3. Запустите приложение QR Generator.exe
